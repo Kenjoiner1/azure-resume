@@ -9,6 +9,6 @@ My own Azure Cloud resume follow ACG project video
 
 #Second Steps
 
--created storage container in azure and enable static website
--connected VScode to storage container utilizing azure storage extension in app
--created error.html page and deployed/uploaded files to container
+- created storage container in azure and enable static website
+- connected VScode to storage container utilizing azure storage extension in app
+- created error.html page and deployed/uploaded files to container
